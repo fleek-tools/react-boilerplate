@@ -1,4 +1,6 @@
 # React + Fleek Starter Kit
+![React Boilerplate](https://github.com/fleek-tools/react-template/assets/74613246/443647a2-26bd-4872-aafd-fe6a16f0e2f5)
+
 
 ## 🚀 Project Structure
 
@@ -19,7 +21,7 @@ Inside of your React project, you'll see the following folders and files:
 └── package.json
 ```
 
-If you want to lern more about `vite` and `react` you can checkout [Vite Documentation](https://vitejs.dev/).
+If you want to learn more about `vite` and `react` you can checkout [Vite Documentation](https://vitejs.dev/).
 
 ## 🧞 Commands
 
